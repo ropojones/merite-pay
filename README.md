@@ -1,1 +1,1 @@
-# meritepay
+# merite-pay
